@@ -1,0 +1,19 @@
+#!/usr/bin//perl
+
+
+use PDF::FromHTML;
+
+my $pdf = PDF::FromHTML->new( encoding => 'utf-8' );
+
+$pdf->load_file( shift );
+
+           # Perform the actual conversion:
+           $pdf->convert(
+               # With PDF::API2, font names such as 'traditional' also works
+               Font        => 'DejaVuSans.ttf',
+               LineHeight  => 16,
+               #Landscape   => 1,
+           );
+
+
+$pdf->write_file( shift );

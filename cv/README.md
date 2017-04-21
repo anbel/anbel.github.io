@@ -29,6 +29,7 @@
 2015 - 2015 | The Anuban KohKood School | Koh Kood island / Thailand
 
 **Volunteer(English Teacher)**
+
 * In-patients
 
 ---
@@ -40,6 +41,7 @@
 2009 - 2009 |  Natalie-tours |  Pattaya / Thailand
 
 **Represantative of company**
+
 * Attending the needs of the customer.
 * Holding informational meetings as groups of tourists as VIP tourists.
 * Sale excursions and hotel services.
