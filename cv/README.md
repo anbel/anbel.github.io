@@ -65,3 +65,53 @@
 * Arranging tour packages
 * Responsible for leading groups of tourists through places with historical, cultural or regional importance
 * Leading walking tours, driving tours
+
+---
+
+ date | company |  geo 
+ --- | --- | --- 
+2008 - 2009 | Natalie Tours and Mina Travel | Antalya - Turkey
+
+**Arrival Manager – Representative**
+
+* Attending to needs of the customers such as meeting touristic upon arrival at the
+* Antalya airport
+* Checking tourist hotel vouchers in accordance with guest’s list
+* Reporting lost and found property
+* Supervising a group of 30 trainees at the Antalya international
+
+---
+
+ date | company |  geo 
+ --- | --- | --- 
+2007 - 2008 | Pegas Touristics | Hurgada,Egypt
+
+**Transfer guide**
+
+* Transferring customers to and from the airport
+* Making sure that the guests are booking into their accommodation
+* Keeping guests occupied at the airport if there are any outgoing delays
+* Accompanying guests on day and night excursions
+
+---
+
+ date | company |  geo 
+ --- | --- | --- 
+2007 - 2008 | Pegas Touristics | Hurgada,Egypt
+
+**Transfer guide**
+
+* Transferring customers to and from the airport
+* Making sure that the guests are booking into their accommodation
+* Keeping guests occupied at the airport if there are any outgoing delays
+* Accompanying guests on day and night excursions
+
+---
+
+### Reference
+
+Svetlana Burova – CEO of Natalie- tours(Bangkok)
+Ph: 0838247790
+
+Nikoporn– headmistress of Anuban School
+Ph: 0892772171
