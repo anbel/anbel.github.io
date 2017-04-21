@@ -1,12 +1,17 @@
+<img align=right src=../pics/anna-belimova.jpg/>
+
 ## Anna Belimova CV
 
+<!--
 ![Anna Belimova](../pics/anna-belimova.jpg)
+-->
 
 * 34/2 M.1 Banklongnamsai
 * 23000 Koh Kood,Trat, Thailand
 * Mob. 0643377650
 * Email: abelimova(at)yandex(dot)ru
 * web: [http://anbel.github.io](http://anbel.github.io)
+* CV: [http://anbel.github.io/cv/](http://anbel.github.io/cv/)
 
 ### Summary
 
@@ -20,8 +25,8 @@
 <!--
  date | company |  geo 
  --- | --- | --- 
- -->
-2015 | The Anuban KohKood School | Koh Kood island / Thailand
+-->
+2015 - 2015 | The Anuban KohKood School | Koh Kood island / Thailand
 
 **Volunteer(English Teacher)**
 * In-patients
@@ -32,7 +37,7 @@
  date | company |  geo 
  --- | --- | --- 
 -->
-2009 - 2013 |  Natalie-tours |  Pattaya / Thailand
+2009 - 2009 |  Natalie-tours |  Pattaya / Thailand
 
 **Represantative of company**
 * Attending the needs of the customer.
@@ -47,7 +52,7 @@
  date | company |  geo 
  --- | --- | --- 
 -->
-2009 |  Natalie-tours |  Alanya,Turkey
+2009 - 2009 |  Natalie-tours |  Alanya,Turkey
 
 **Representative of company**
 

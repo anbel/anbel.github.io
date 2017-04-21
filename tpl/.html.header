@@ -3,7 +3,7 @@
     <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 <title>
-Anna Belimova CV
+%%TITLE%%
 </title>
     </head>
 
@@ -55,11 +55,11 @@ p {
 }
 
 h2 {
-    font-size: 120%;
+    font-size: 150%;
 }
 
 h1 {
-    font-size: 140%;
+    font-size: 200%;
 }
 
 a{
