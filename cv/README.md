@@ -1,4 +1,4 @@
-<img align=right src=../pics/anna-belimova.jpg/>
+<img align="right" src="../pics/anna-belimova.jpg"/>
 
 ## Anna Belimova CV
 
