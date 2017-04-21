@@ -6,12 +6,13 @@
 ![Anna Belimova](../pics/anna-belimova.jpg)
 -->
 
-* 34/2 M.1 Banklongnamsai
-* 23000 Koh Kood,Trat, Thailand
-* Mob. 0643377650
+* 34/2 M.1 Banklongnamsai<br/>
+23000 Koh Kood,Trat, Thailand
+* Mob: 0643377650
 * Email: abelimova(at)yandex(dot)ru
 * web: [http://anbel.github.io](http://anbel.github.io)
-* CV: [http://anbel.github.io/cv/](http://anbel.github.io/cv/)
+* CV: [http://anbel.github.io/cv](http://anbel.github.io/cv)
+* PDF: [Anna_Belimova_CV.pdf](http://anbel.github.io/cv/Anna_Belimova_CV.pdf)
 
 ### Summary
 
