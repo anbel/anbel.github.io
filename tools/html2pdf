@@ -5,12 +5,14 @@ use PDF::FromHTML;
 
 my $pdf = PDF::FromHTML->new( encoding => 'utf-8' );
 
+our $FONT_PATH="/usr/share/fonts/truetype/ttf-dejavu/";
+
 $pdf->load_file( shift );
 
            # Perform the actual conversion:
            $pdf->convert(
                # With PDF::API2, font names such as 'traditional' also works
-               Font        => 'DejaVuSans.ttf',
+               Font        => "${FONT_PATH}DejaVuSans.ttf",
                LineHeight  => 16,
                #Landscape   => 1,
            );
