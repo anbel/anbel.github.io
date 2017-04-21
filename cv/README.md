@@ -1,6 +1,6 @@
-## Anna Belimova CV
-
 <img align="right" src="../pics/anna-belimova.jpg"/>
+## Anna Belimova CV 
+
 <!--
 ![Anna Belimova](../pics/anna-belimova.jpg)
 -->
