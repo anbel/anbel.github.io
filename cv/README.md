@@ -16,3 +16,52 @@
 * Saint-Petersburg State University of Tourism and Hotel Business.
 * Belgorod Shukhov State Technological University. (Economist-manager).
 
+### Experience
+
+ date | company |  geo 
+ --- | --- | --- 
+2015 | The Anuban KohKood School | Koh Kood island / Thailand
+
+**Volunteer(English Teacher)**
+* In-patients
+
+---
+
+ date | company |  geo 
+ --- | --- | --- 
+ 2009 - 2013 |  Natalie-tours |  Pattaya / Thailand
+
+**Represantative of company**
+* Attending the needs of the customer.
+* Holding informational meetings as groups of tourists as VIP tourists.
+* Sale excursions and hotel services.
+* Assistance in solving the problems of tourists.
+* Assistance in organizing day and nighttime entertainment.
+
+---
+
+ date | company |  geo 
+ --- | --- | --- 
+ 2009 |  Natalie-tours |  Alanya,Turkey
+
+**Representative of company**
+
+* Attending to needs of the customers.
+* Holding informational meetings as groups of tourists as VIP tourists.
+* Sale excursions and hotel services.
+* Assistance in solving the problems of tourists.
+* Assistance in organizing day and nighttime entertainment.
+
+---
+
+ date | company |  geo 
+ --- | --- | --- 
+2009 - 2010 |  Natalie-tours |  Pattaya / Thailand
+
+**Tour Guide**
+
+* Attending to needs of the customers such as met touristic attractions in Phuket
+* Conducing excursion
+* Arranging tour packages
+* Responsible for leading groups of tourists through places with historical, cultural or regional importance
+* Leading walking tours, driving tours
