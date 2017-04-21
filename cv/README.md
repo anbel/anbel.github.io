@@ -122,5 +122,5 @@
 Svetlana Burova – CEO of Natalie- tours(Bangkok)
 Ph: 0838247790
 
-Nikoporn– headmistress of Anuban School
+Mrs.Nikoporn– headmistress of Anuban School
 Ph: 0892772171
