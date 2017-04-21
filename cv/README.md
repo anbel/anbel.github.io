@@ -95,19 +95,6 @@
 
 ---
 
- date | company |  geo 
- --- | --- | --- 
-2007 - 2008 | Pegas Touristics | Hurgada,Egypt
-
-**Transfer guide**
-
-* Transferring customers to and from the airport
-* Making sure that the guests are booking into their accommodation
-* Keeping guests occupied at the airport if there are any outgoing delays
-* Accompanying guests on day and night excursions
-
----
-
 ### Reference
 
 Svetlana Burova – CEO of Natalie- tours(Bangkok)
