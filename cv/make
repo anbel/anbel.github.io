@@ -6,4 +6,7 @@ NOW=`TZ='UTC' date` ../tools/md2html \
     README.md \
     index.html
 
-../tools/html2pdf index.html Anna_Belimova_CV.pdf
+wkhtmltopdf index.html Anna_Belimova_CV.pdf
+
+#../tools/html2pdf index.html Anna_Belimova_CV.pdf
+#../tools/html2pdf2 index.html Anna_Belimova_CV.pdf
