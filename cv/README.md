@@ -17,9 +17,10 @@
 * Belgorod Shukhov State Technological University. (Economist-manager).
 
 ### Experience
-
+<!--
  date | company |  geo 
  --- | --- | --- 
+ -->
 2015 | The Anuban KohKood School | Koh Kood island / Thailand
 
 **Volunteer(English Teacher)**
@@ -27,9 +28,11 @@
 
 ---
 
+<!--
  date | company |  geo 
  --- | --- | --- 
- 2009 - 2013 |  Natalie-tours |  Pattaya / Thailand
+-->
+2009 - 2013 |  Natalie-tours |  Pattaya / Thailand
 
 **Represantative of company**
 * Attending the needs of the customer.
@@ -40,9 +43,11 @@
 
 ---
 
+<!--
  date | company |  geo 
  --- | --- | --- 
- 2009 |  Natalie-tours |  Alanya,Turkey
+-->
+2009 |  Natalie-tours |  Alanya,Turkey
 
 **Representative of company**
 
@@ -54,8 +59,10 @@
 
 ---
 
+<!--
  date | company |  geo 
  --- | --- | --- 
+-->
 2009 - 2010 |  Natalie-tours |  Pattaya / Thailand
 
 **Tour Guide**
@@ -68,8 +75,10 @@
 
 ---
 
+<!--
  date | company |  geo 
  --- | --- | --- 
+-->
 2008 - 2009 | Natalie Tours and Mina Travel | Antalya - Turkey
 
 **Arrival Manager – Representative**
@@ -82,8 +91,10 @@
 
 ---
 
+<!--
  date | company |  geo 
  --- | --- | --- 
+-->
 2007 - 2008 | Pegas Touristics | Hurgada,Egypt
 
 **Transfer guide**
