@@ -23,6 +23,9 @@
 * Belgorod Shukhov State Technological University. (Economist-manager).
 
 ### Experience
+
+---
+
 <!--
  date | company |  geo 
  --- | --- | --- 
