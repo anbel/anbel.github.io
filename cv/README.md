@@ -14,11 +14,6 @@
 * CV: [http://anbel.github.io/cv](http://anbel.github.io/cv)
 * PDF: [Anna_Belimova_CV.pdf](http://anbel.github.io/cv/Anna_Belimova_CV.pdf)
 
-<script>
-ss=document.getElementById("stopspam");
-ss.innerHTML=ss.innerHTML.replace(/\(at\)/, '@').replace(/\(dot\)/, '.');
-</script>
-
 ### Summary
 
 * Professional qualification in hospitality 10+ years.
