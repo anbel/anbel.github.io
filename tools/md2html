@@ -45,6 +45,14 @@ $ENV{TITLE}//=$1 if m{#{2,}\s(.+)\n};
 
 warn "[TITLE] $ENV{TITLE}\n";
 
+our $TITLE_SAFE=$ENV{TITLE};
+
+$TITLE_SAFE=~ s/\W+/_/g;
+$TITLE_SAFE=~ s/_$//g;
+$TITLE_SAFE=~ s/^_//g;
+
+print $TITLE_SAFE if $ENV{TITLE_OUT};
+
 s{\b(http(s?)://\S+/(\S+\.(rar|xz|list)))}{[$3]($1)}sgi;
 s{(?<=\s)(http(s?)://\S+)}{[$1]($1)}sgi;
 #s{(?<!\()(http(s?)://\S+)}{[$1]($1)}sgi;

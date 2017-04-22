@@ -1,12 +1,18 @@
 #!/bin/sh
 
 ## hyphop ##
+DATE=`TZ='UTC' date`
 
-NOW=`TZ='UTC' date` ../tools/md2html \
-    README.md \
-    index.html
+TITLE=`NOW=$DATE TITLE_OUT=1 ../tools/md2html README.md index.html`
 
-wkhtmltopdf --title "Anna Belimova CV" index.html Anna_Belimova_CV.pdf
+echo "[i] $TITLE";
 
-#../tools/html2pdf index.html Anna_Belimova_CV.pdf
-#../tools/html2pdf2 index.html Anna_Belimova_CV.pdf
+PDF=$TITLE.pdf
+
+wkhtmltopdf --title $TITLE index.html $PDF || \
+    xvfb-run -- wkhtmltopdf wkhtmltopdf --title $TITLE index.html $PDF
+
+#../tools/html2pdf index.html $PDF
+#../tools/html2pdf2 index.html $PDF
+
+
