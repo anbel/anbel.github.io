@@ -169,7 +169,7 @@ h2 b{
 </ul>
 <script>
 ss=document.getElementById("stopspam");
-ss.innerHTML=ss.innerHTML.replace(/\(at\)/, '@').replace(/\(dot\)/, '.');
+ss.innerHTML=ss.innerHTML.replace(/\(at\)/, '@').replace(/\(dot\)/, '.').replace(/(.+)/,"<a href='mailto:$1'>$1</a>");
 </script>
 <h3><a name='summary'></a>Summary</h3>
 
