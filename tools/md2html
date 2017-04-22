@@ -18,6 +18,8 @@ our $m = Text::Markdown->new;
 #    img_ids => 0,
 #    );
 
+exit unless @ARGV;
+
 our $in = shift // "<&STDIN";
 our $out = shift // ">&STDOUT";
 
