@@ -70,9 +70,8 @@
 
 Подарите Вашим партнером кусочек Рая!!!!
 
-## фото.
-Inline-stile:
-![alt text](https://web.facebook.com/media/set/?set=a.584162378311769.1073741828.100001540365478&type=3)
+## фото
+![kohkood](pics)
 
 
 
