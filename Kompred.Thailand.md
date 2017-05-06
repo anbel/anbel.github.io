@@ -71,7 +71,7 @@
 Подарите Вашим партнером кусочек Рая!!!!
 
 ## фото
-![kohkood](pics/koh kood 2.jpg)
+![kohkood](../pics/koh kood 2.jpg)
 
 
 
