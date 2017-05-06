@@ -1,0 +1,8 @@
+#!/bin/sh
+
+## hyphop ##
+
+NOW=`TZ='UTC' date` tools/md2html \
+    Kompred.Thailand.md \
+    Kompred.Thailand.html
+

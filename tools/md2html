@@ -10,13 +10,13 @@ BEGIN {
 }
 
 use Text::Markdown;
-#use Text::MultiMarkdown;
+use Text::MultiMarkdown;
 
-our $m = Text::Markdown->new;
-#our $m = Text::MultiMarkdown->new(
-#    heading_ids => 0,
-#    img_ids => 0,
-#    );
+#our $m = Text::Markdown->new;
+our $m = Text::MultiMarkdown->new(
+    heading_ids => 0,
+    img_ids => 0,
+    );
 
 exit unless @ARGV;
 
