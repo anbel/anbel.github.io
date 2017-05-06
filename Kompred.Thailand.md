@@ -8,7 +8,7 @@
 * Консультация любых вопросов, связанных с островом,
 * Мы можем выступить в роли Вашего представителя на месте.
 
-<img align="right"src="pics/koh_koodle.jpg"/>
+<img align="right" src="pics/koh_koodle.jpg"/>
 
 ## Почему Ко Куд?
 
