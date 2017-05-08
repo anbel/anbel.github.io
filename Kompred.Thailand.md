@@ -1,7 +1,7 @@
 # Mice tourizm на острове Ко Куд. Тайланд
 ## Помощь в организации любого мероприятия на остове Куд
 
-<img align="right" src="pics/koh_koodau.jpg"/>
+<img align="right" src="pics/koh_kood_7.jpg"/>
 
 * Трансфер,
 * Размещение,
@@ -14,7 +14,7 @@
 
 ## Почему Ко Куд?
 
-<img align="right" src="pics/koh_kood_7.jpg"/>
+<img align="right" src="pics/koh_koodau.jpg"/>
 
 * Круглый год лето, солнце, фрукты
 * Нет пыли,суеты и шума
