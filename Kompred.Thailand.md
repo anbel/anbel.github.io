@@ -85,10 +85,12 @@
 Подарите Вашим партнером кусочек Рая!!!!
 
 ## фото
-![kohkood](pics/koh_kood_7.jpg)
-![kohkood](pics/koh_kood_6.jpg)
+![kohkood](pics/koh_koodau.jpg)
+![kohkood](pics/koh_koodsn.jpg)
 ![kohkood](pics/koh_kood_3.jpg)
 ![kohkood](pics/koh_koodpe.jpg)
+![kohkood](pics/koh_koodda.jpg)
+![kohkood](pics/koh_koodka.jpg)
 
 ## адрес
 
