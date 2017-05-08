@@ -1,7 +1,7 @@
 # Mice tourizm на острове Ко Куд. Тайланд
 ## Помощь в организации любого мероприятия на остове Куд
 
-<img align="right" src="pics/koh_koodle.jpg"/>
+<img align="right" src="pics/koh_koodau.jpg"/>
 
 * Трансфер,
 * Размещение,
@@ -85,7 +85,7 @@
 Подарите Вашим партнером кусочек Рая!!!!
 
 ## фото
-![kohkood](pics/koh_koodau.jpg)
+![kohkood](pics/koh_koodle.jpg)
 ![kohkood](pics/koh_koodsn.jpg)
 ![kohkood](pics/koh_kood_3.jpg)
 ![kohkood](pics/koh_koodpe.jpg)
