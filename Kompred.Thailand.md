@@ -88,6 +88,7 @@
 ![kohkood](pics/koh_kood_7.jpg)
 ![kohkood](pics/koh_kood_6.jpg)
 ![kohkood](pics/koh_kood_3.jpg)
+![kohkood](pics/koh_koodpe.jpg)
 
 ## адрес
 
