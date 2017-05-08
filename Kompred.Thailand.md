@@ -91,8 +91,9 @@
 ![kohkood](pics/koh_koodpe.jpg)
 ![kohkood](pics/koh_koodbudda.jpg)
 ![kohkood](pics/koh_koodka.jpg)
-![kohkood](pics/koh_kood_snr.jpg)
-![kohkood](pics/koh_kood_snr1.jpg)
+![kohkood](pics/kohkood_snr.jpg)
+![kohkood](pics/kohkood_snr1.jpg)
+
 ## адрес
 
 
