@@ -85,11 +85,11 @@
 Подарите Вашим партнером кусочек Рая!!!!
 
 ## фото
-![kohkood](pics/kkpal.jpg)
-![kohkood](pics/kkbu.jpg)
-![kohkood](pics/kkka.jpg)
-![kohkood](pics/kkrd.jpg)
-![kohkood](pics/kkau.jpg)
+![kohkood](pics/kopa.jpg)
+![kohkood](pics/kobu.jpg)
+![kohkood](pics/koka.jpg)
+![kohkood](pics/kobe.jpg)
+![kohkood](pics/kord.jpg)
 ![kohkood](pics/koh_koodka.jpg)
 ![kohkood](pics/kohkood_snr.jpg)
 ![kohkood](pics/kohkood_snr1.jpg)
