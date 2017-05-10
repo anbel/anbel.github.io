@@ -14,7 +14,7 @@
 
 ## Почему Ко Куд?
 
-<img align="right" src="pics/koh_koodau.jpg"/>
+<img align="right" src="pics/kode.jpg"/>
 
 * Круглый год лето, солнце, фрукты
 * Нет пыли,суеты и шума
