@@ -87,7 +87,7 @@
 ## фото
 ![kohkood](pics/kopa.jpg)
 ![kohkood](pics/kobu.jpg)
-![kohkood](pics/koka.jpg)
+![kohkood](pics/koka1.jpg)
 ![kohkood](pics/kobe.jpg)
 ![kohkood](pics/kord.jpg)
 ![kohkood](pics/koh_koodka.jpg)
