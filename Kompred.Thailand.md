@@ -90,7 +90,7 @@
 ![kohkood](pics/koka1.jpg)
 ![kohkood](pics/kobe.jpg)
 ![kohkood](pics/kord.jpg)
-![kohkood](pics/kohkood_snr1.jpg)
+![kohkood](pics/kosn.jpg)
 
 ## адрес
 
