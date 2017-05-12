@@ -61,7 +61,7 @@
 проведения свадебных церемоний.
 
 
-## Кто Я
+## Кто Я:
 
    Креативный, энергичный проффессионал , 
 работающий в сфере туризма более 10 лет
@@ -84,7 +84,7 @@
 работ(ознакомление детей с культурой
 Тайланда), корпоративнного отдыха.
 
-## Фото
+## Фото:
 ![kohkood](pics/kopa.jpg)
 ![kohkood](pics/kobu.jpg)
 ![kohkood](pics/koka1.jpg)
@@ -92,13 +92,14 @@
 ![kohkood](pics/kord.jpg)
 ![kohkood](pics/kosn.jpg)
 
-**Подарите Вашим партнерам кусочек Рая!
+## Подарите Вашим партнерам кусочек Рая!
 
-## Адрес
-abelimova@yandex.ru
-anbeal21@gmail.com
-skype:abelimova
-ph: +66643377650.
+## Адрес:
+
+* abelimova@yandex.ru
+* anbeal21@gmail.com
+* skype:abelimova
+* ph: +66643377650.
 
 
 
