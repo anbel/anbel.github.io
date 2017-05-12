@@ -84,7 +84,7 @@
 работ(ознакомление детей с культурой
 Тайланда), корпоративнного отдыха.
 
-## фото
+## Фото
 ![kohkood](pics/kopa.jpg)
 ![kohkood](pics/kobu.jpg)
 ![kohkood](pics/koka1.jpg)
@@ -92,13 +92,13 @@
 ![kohkood](pics/kord.jpg)
 ![kohkood](pics/kosn.jpg)
 
-Подарите Вашим партнерам кусочек Рая!
+**Подарите Вашим партнерам кусочек Рая!
 
-## адрес
+## Адрес
 abelimova@yandex.ru
 anbeal21@gmail.com
 skype:abelimova
-ph: +66643377650
+ph: +66643377650.
 
 
 
