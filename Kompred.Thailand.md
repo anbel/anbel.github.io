@@ -95,11 +95,12 @@
 ## Подарите Вашим партнерам кусочек Рая!
 
 ## Адрес:
-
-* abelimova@yandex.ru
-* anbeal21@gmail.com
+* Banklongnamsai Moo1. Koh Kood, Trat, 23000
 * skype:abelimova
-* ph: +66643377650.
+* tel: +66643377650
+* e-mail: abelimova@yandex.ru
+* anbeal21@gmail.com
+* 
 
 
 
