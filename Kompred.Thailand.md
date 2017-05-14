@@ -101,7 +101,7 @@
 * skype:abelimova
 * tel: +66643377650
 * e-mail: abelimova@yandex.ru
-* anbeal21@gmail.com
+  anbeal21@gmail.com
 
 
 
