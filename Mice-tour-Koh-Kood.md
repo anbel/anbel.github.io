@@ -64,7 +64,7 @@
 
 ## Кто Я
 
-<img align="right" src="pics/anna-belimova.jpg"/>
+<img align="right" src="pics/anna-belimova.small.jpg"/>
 Креативный, энергичный профессионал , 
 работающий в сфере туризма более 10 лет
 (не только в Тайланде),
