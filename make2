@@ -1,8 +1,9 @@
 #!/bin/sh
 
 ## hyphop ##
+DOC=Mice-tour-Koh-Kood
 
 NOW=`TZ='UTC' date` tools/md2html \
-    Kompred.Thailand.md \
-    Kompred.Thailand.html
+    $DOC.md \
+    $DOC.html
 
