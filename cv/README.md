@@ -16,11 +16,13 @@
 
 ### Summary
 
+* native language: Russian + advanced English + basic Thai, Spanish
 * Professional qualification in hospitality 10+ years.
 * Certificate in Effective Conflict and Stress Management(Moscow).
 * Certificate in Sales Organizers and Planners(Moscow).
 * Saint-Petersburg State University of Tourism and Hotel Business.
 * Belgorod Shukhov State Technological University. (Economist-manager).
+* sport dance coach/instructor
 
 ### Experience
 
