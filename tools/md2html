@@ -23,7 +23,7 @@ exit unless @ARGV;
 our $in = shift // "<&STDIN";
 our $out = shift // ">&STDOUT";
 
-warn "<$in >$out\n";
+warn "<$in> $out\n";
 
 sub cat {
     `cat @_`
@@ -41,7 +41,7 @@ sub savefile {
 
 $_ = cat $in;
 
-$ENV{TITLE}//=$1 if m{#{2,}\s(.+)\n};
+$ENV{TITLE}//=$1 if m{#{1,}\s(.+)\n};
 
 warn "[TITLE] $ENV{TITLE}\n";
 

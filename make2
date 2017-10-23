@@ -3,7 +3,19 @@
 ## hyphop ##
 DOC=Mice-tour-Koh-Kood
 
-NOW=`TZ='UTC' date` tools/md2html \
-    $DOC.md \
-    $DOC.html
+DATE=`TZ='UTC' date`
 
+echo "[DATE] $DATE $DOC"
+
+TITLE=`NOW=$DATE TITLE_OUT=1 tools/md2html $DOC.md $DOC.html`
+#TITLE=`NOW=$DATE tools/md2html $DOC.md $DOC.html`
+
+echo "[T] $TITLE";
+
+PDF=$TITLE.pdf
+
+echo "[PDF] $PDF";
+
+#exit 
+wkhtmltopdf --title $TITLE $DOC.html $PDF || \
+    xvfb-run -- wkhtmltopdf wkhtmltopdf --title $TITLE $DOC.html $PDF

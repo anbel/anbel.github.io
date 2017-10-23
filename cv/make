@@ -5,7 +5,7 @@ DATE=`TZ='UTC' date`
 
 TITLE=`NOW=$DATE TITLE_OUT=1 ../tools/md2html README.md index.html`
 
-echo "[i] $TITLE";
+echo "[T] $TITLE";
 
 PDF=$TITLE.pdf
 
