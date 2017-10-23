@@ -9,6 +9,7 @@ echo "[DATE] $DATE $DOC"
 
 TITLE=`NOW=$DATE TITLE_OUT=1 tools/md2html $DOC.md $DOC.html`
 #TITLE=`NOW=$DATE tools/md2html $DOC.md $DOC.html`
+TITLE=$DOC
 
 echo "[T] $TITLE";
 
