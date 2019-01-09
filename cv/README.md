@@ -8,7 +8,7 @@
 
 * 34/2 M.1 Banklongnamsai<br/>
 23000 Koh Kood,Trat, Thailand
-* Mob: 0643377650
+* Phone: 0829315202
 * Email: <span id="stopspam">abelimova(at)yandex(dot)ru</span>
 * web: [http://anbel.github.io](http://anbel.github.io)
 * CV: [http://anbel.github.io/cv](http://anbel.github.io/cv)
