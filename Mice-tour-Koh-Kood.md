@@ -99,13 +99,11 @@
 ![kohkood](pics/kord.jpg)
 ![kohkood](pics/kosn.jpg)
 
-## Подарите Вашим Клиентам кусочек Рая!!!
-
 ## Адрес:
 
 * Banklongnamsai Moo1. Koh Kood, Trat, 23000
 * skype:abelimova
-* tel: +66643377650
+* tel: +66829315202
 * www: https://anbel.github.io/
 * e-mail:
   micekohkood@gmail.com
